@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hess-Legal
-- 👀 I’m interested in the law, regulation, security and business of the new encrypted economy
-- 🌱 I’m currently learning the legal and regulatory frameworks for digital assets and data....always learning. If coding is in there, it will never be a center of excellence
-- 💞️ I’m looking to collaborate on digtal asset marketplace regulation and inviting guests to learn from and participate in The Encrypted Economy podcast
+- 👋 Hi, I’m Eric Hess, @Hess-Legal
+- 👀 I’m interested in the law, regulation, security and business of digital assets and DeFi
+- 🌱 Hess Legal is my law firm and my practice is primarily focused on digital assets, traditional capital markets and exempt securities offerings, but I am a nerd when it comes to encryption of data.
+- 💞️ I’m looking to collaborate on DeFi, marketplace guidance and regulation and cool ideas for deep dives on my Encrypted Economy podcast
 - 📫 How to reach me eric@hesslegalcounsel.com or @hess_legal on Twitter
 
 <!---
